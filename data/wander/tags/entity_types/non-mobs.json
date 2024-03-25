@@ -1,0 +1,24 @@
+{
+"values": [
+	"player",
+	"item",
+	"item_display",
+	"item_frame",
+	"glow_item_frame",
+	"falling_block",
+	"#arrows",
+	"#impact_projectiles",
+	"ender_dragon",
+	"interaction",
+	"text_display",
+	"fireball",
+	"firework_rocket",
+	"armor_stand",
+	"area_effect_cloud",
+	"painting",
+	"tnt",
+	"tnt_minecart",
+	"boat",
+	"minecart"
+	]
+}

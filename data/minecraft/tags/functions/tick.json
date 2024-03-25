@@ -1,0 +1,7 @@
+{
+    "values": [
+        "wander:main",
+        "wander:trigger",
+        "wander:trigger_config"
+    ]
+}

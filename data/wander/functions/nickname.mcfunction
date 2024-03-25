@@ -1,0 +1,2 @@
+execute unless entity @e[distance=..5,tag=nick,type=text_display] run summon text_display ~ ~ ~ {text:'{"selector":"@p[scores={wander=2}]"}',billboard:"center",Tags:["nick"]}
+execute as @a[scores={wander=2}] at @s run execute at @e[limit=1,distance=..5,tag=wander] run tp @e[limit=1,tag=nick,type=text_display] ~ ~1.8 ~
